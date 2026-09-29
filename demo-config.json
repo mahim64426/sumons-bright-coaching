@@ -1,0 +1,6 @@
+{
+  "admin_credentials": "Set in assets/js/demo-auth.js after user provides them",
+  "storage": "Google Drive via future secure backend",
+  "database": "Supabase via future secure backend",
+  "teacher_image": "assets/images/teacher-sir.jpg"
+}
